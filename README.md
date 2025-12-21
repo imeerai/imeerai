@@ -1,4 +1,4 @@
-![logo](https://github.com/imeerai/imeerai/blob/main/image%20(9).png)
+![logo](https://github.com/imeerai/imeerai/blob/f090f5a0242b2da28cf50d317df1413ba0b44aab/image%20(9).png)
 
 
 <h2 align="center">
