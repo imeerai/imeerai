@@ -1,4 +1,4 @@
-![logo](https://github.com/itsmrzok/itsmrzok/blob/main/image%20(9).png)
+![logo](https://github.com/imeerai/imeerai/blob/main/image%20(9).png)
 
 
 <h2 align="center">
