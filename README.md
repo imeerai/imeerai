@@ -7,21 +7,13 @@
 </h2>
 
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
-  </div> 
-</p>
-
-
 <!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
 leetcode: https://leetcard.jacoblin.cool/
 <h2 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+ZaMeer+Abbas;I+am++CS+Eng.++Student%F0%9F%8E%93;I+am+an+open+sourse+enthusiast+;Full+Stack+Developer+%F0%9F%9A%80;Security+Analyst+%26+Bug+Bounty+Hunter;I+am+Java+%26+Python+enthusiast+%F0%9F%90%8D;Security+Auditing;I+am+UI%2FUX+designer"></a>
   </h2>
  -->
-<h3 align="center">CS Eng. student 🎓 | Java & Python enthusiast 🐍 | Full Stack Developer 🚀 | Security Analyst & Bug Bounty Hunter | Penetration Testing | Security Auditing | Incident Response | Also skilled in UI/UX design using Figma.</h3>
+<h3 align="center">CS Eng. student 🎓 | Full Stack Developer 🚀 specializing in Front-End Development & Responsive Design 🌐 | Incident Response Specialist 🔒.</h3>
 <br>
 
  <!-- platfrom -->
@@ -36,16 +28,12 @@ leetcode: https://leetcard.jacoblin.cool/
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 
-👋 Hi, I'm Zameer Abbas, a CS Eng. student 🎓 with a passion for technology, particularly in Java & Python 🐍. I specialize in Full Stack Development 🚀, with expertise in web development, responsive design, and front-end development. I'm also deeply involved in cybersecurity, focusing on Security Analysis, Bug Bounty Hunting, Penetration Testing, Security Auditing, and Incident Response. Additionally, I'm skilled in UI/UX design using Figma. Currently, I'm dedicated to furthering my studies in cybersecurity to contribute to a safer digital world. Let's code together and explore opportunities to collaborate on innovative projects or discuss the exciting future of cybersecurity.
+👋 Hi, I’m Zameer Abbas, a Computer Systems Engineering student 🎓 with a strong interest in Full Stack Web Development 🚀 and Cybersecurity 🔒. I work with HTML, CSS, JavaScript, and backend technologies including Node.js, Express.js, MongoDB, MongoDB Atlas, and SQL, with a focus on front-end development and responsive design 🌐.
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 
 - 👨‍💻 All of my projects are available at [soon](soon)
-
 - 📫 How to reach me **abbaszameer234@gmail.com**
-
-- 📄 Know about my experiences [sooon](sooon)
-
 - ⚡ Fun fact **Passionate about Innovation**
 
 
