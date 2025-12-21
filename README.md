@@ -32,8 +32,12 @@ leetcode: https://leetcard.jacoblin.cool/
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 
+- 🎓 <h3> Computer Systems Engineering </h3> student with a strong foundation in software and system-level concepts
+  
 - 👨‍💻 All of my projects are available at [soon](soon)
+  
 - 📫 How to reach me **abbaszameer234@gmail.com**
+  
 - ⚡ Fun fact **Passionate about Innovation**
 
 
