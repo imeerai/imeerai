@@ -5,7 +5,7 @@
   Welcome to ZaMeer Abbas's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<h3 align="center">CS Eng. student 🎓 | Full Stack Developer 🚀 specializing in Front-End Development & Responsive Design 🌐 | Incident Response Specialist 🔒.</h3>
+<h3 align="center">CS Eng. student 🎓 | Full Stack Developer 🚀 specializing in Front-End Development & Responsive Design 🌐 | Incident Response Specialist 🔒 </h3>
 <br>
 
  <!-- platfrom -->
@@ -15,7 +15,6 @@
  <br>
 
  </p>
-
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
@@ -45,7 +44,6 @@
 [![Firebase Badge](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#) 
 [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#) 
 <img src="https://img.shields.io/badge/React_Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=61DAFB" height="25"/> <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white" height="25"/> 
-[![TypeScript Badge](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
@@ -64,7 +62,6 @@
 [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7)](#) 
-[![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
 
 
@@ -89,9 +86,6 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
-
-
-
 
 <h3 align="center">Support:</h3>
 <div>
