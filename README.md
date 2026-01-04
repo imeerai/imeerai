@@ -5,7 +5,7 @@
   Welcome to ZaMeer Abbas's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<h3 align="center">CS Eng. student 🎓 | Full Stack Developer 🚀 specializing in Front-End Development & Responsive Design 🌐 | Incident Response Specialist 🔒 </h3>
+<h3 align="center">CS Engr.🎓 | Full Stack Developer 🚀 specializing in Front-End Development & Responsive Design 🌐 | Incident Response Specialist 🔒 </h3>
 <br>
 
  <!-- platfrom -->
