@@ -9,7 +9,7 @@
 <br>
 
  <!-- platfrom -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imeerai&label=Profile%20views&color=0e75b6&style=flat" alt="itsmrzok" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imeerai&label=Profile%20views&color=0e75b6&style=flat" alt="imeerai" />
 <img  src="https://custom-icon-badges.herokuapp.com/badge/+92-318--222--1812-orange?style=for-the-badge&logo=phone&logoColor=white"/></a>
   <img  src="https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white"/></a>
  <br>
