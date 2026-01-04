@@ -5,14 +5,6 @@
   Welcome to ZaMeer Abbas's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-
-
-<!-- Typing SVG  - https://readme-typing-svg.herokuapp.com/demo/ 
-leetcode: https://leetcard.jacoblin.cool/
-<h2 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+ZaMeer+Abbas;I+am++CS+Eng.++Student%F0%9F%8E%93;I+am+an+open+sourse+enthusiast+;Full+Stack+Developer+%F0%9F%9A%80;Security+Analyst+%26+Bug+Bounty+Hunter;I+am+Java+%26+Python+enthusiast+%F0%9F%90%8D;Security+Auditing;I+am+UI%2FUX+designer"></a>
-  </h2>
- -->
 <h3 align="center">CS Eng. student 🎓 | Full Stack Developer 🚀 specializing in Front-End Development & Responsive Design 🌐 | Incident Response Specialist 🔒.</h3>
 <br>
 
