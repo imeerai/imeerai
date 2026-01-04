@@ -19,11 +19,11 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
 
-👋 Hi, I’m Zameer Abbas, a Computer Systems Engineering student 🎓 with a strong interest in Full Stack Web Development 🚀 and Cybersecurity 🔒. I work with HTML, CSS, JavaScript, and backend technologies including Node.js, Express.js, MongoDB, MongoDB Atlas, and SQL, with a focus on front-end development and responsive design 🌐.
+👋 Hi, I’m Zameer Abbas, a Computer Systems Engineering student with a strong interest in Full Stack Web Development and Cybersecurity. I work with HTML, CSS, JavaScript, and backend technologies including Node.js, Express.js, MongoDB, MongoDB Atlas, and SQL, with a focus on front-end development and responsive design.
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 
-- 🎓 Computer Systems Engineering student with a strong foundation in software and system-level concepts
+- 🎓 Computer Systems Engineer with a strong foundation in software and system-level concepts
   
 - 👨‍💻 All of my projects are available at [soon](soon)
   
