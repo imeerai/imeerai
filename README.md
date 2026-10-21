@@ -1,124 +1,175 @@
-![logo](https://github.com/imeerai/imeerai/blob/f090f5a0242b2da28cf50d317df1413ba0b44aab/image%20(9).png?raw=true)
 
 
-<h2 align="center">
-  Welcome to ZaMeer Abbas's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-<h3 align="center">🎓 CS Engineer | Full Stack Developer | Next-Gen Web Experiences | AI-Assisted Modern UI/UX & Animated Web Experiences | Cybersecurity Researcher | Security Research & Vulnerability Analysis | SQA Enthusiast</h3>
-<br>
-
- <!-- platform -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=imeerai&label=Profile%20views&color=0e75b6&style=flat" alt="imeerai" />
-  <img src="https://custom-icon-badges.demolab.com/badge/+92-318--222--1812-orange?style=for-the-badge&logo=phone&logoColor=white"/>
-  <br>
-</p>
-
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
-
-👋 Hi, I'm Zameer Abbas. I don't just build software, I like understanding how it works, how it can be improved, and what can go wrong.
-
-I'm a Computer Systems Engineering student and Full Stack Developer building modern, reliable, user-focused web applications.
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-
-- 🚀 **Full Stack Development** is my primary focus: modern UI/UX, APIs, databases, authentication and application architecture
-
-- 🔐 **Cybersecurity** is the direction I'm building toward: web security, vulnerability analysis, system and network security, and security research
-
-- 🧪 **Software Quality Assurance**: functional testing, test case design, defect identification and improving reliability
-
-- 👨‍💻 All of my projects are available at [github.com/imeerai](https://github.com/imeerai?tab=repositories)
-
-- 📫 How to reach me **abbaszameer234@gmail.com**
-
-- ⚡ Motto: **Build with purpose. Learn continuously. Test thoroughly. Secure by design.**
-
-
-## 🛡️ Featured Project: SecureIX
-
-**SecureIX** is a web security, phishing and SEO analyzer. Enter any URL and it audits SSL/TLS, security headers (CSP, HSTS, XFO), DNS anti-spoofing (SPF, DMARC, CAA), exposed `.env` / `.git` files, phishing heuristics, tech stack and SEO, then scores the site from A+ to F with a downloadable PDF report.
-
-- 🌐 Web dashboard built with React 19, Vite and Tailwind CSS
-- 🧩 Chrome extension (Manifest V3) that scans the active tab in one click
-- ⚙️ Zero-dependency Node.js backend with an SSRF firewall and rate limiting
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-secure--ix.vercel.app-86efac?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](https://secure-ix.vercel.app)
-[![Source Code](https://img.shields.io/badge/Source_Code-secureIX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imeerai/secureIX)
-
-
-#  Skills
-[![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#)
-[![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=white)](#)
-[![Firebase Badge](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#)
-[![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&labelColor=black&logo=redux&logoColor=593d88)](#)
-[![Next.js Badge](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
-[![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#)
-[![Chrome Extensions Badge](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&labelColor=black&logo=googlechrome&logoColor=4285F4)](#)
-
-## 🔐 Security & QA Focus
-
-[![Web Security Badge](https://img.shields.io/badge/Web_Security-86efac?style=for-the-badge&labelColor=black&logo=letsencrypt&logoColor=86efac)](#)
-[![Vulnerability Analysis Badge](https://img.shields.io/badge/Vulnerability_Analysis-ff9ebb?style=for-the-badge&labelColor=black&logo=hackthebox&logoColor=ff9ebb)](#)
-[![Network Security Badge](https://img.shields.io/badge/Network_Security-bfdbfe?style=for-the-badge&labelColor=black&logo=cloudflare&logoColor=bfdbfe)](#)
-[![Threat Modeling Badge](https://img.shields.io/badge/Threat_Modeling-fde047?style=for-the-badge&labelColor=black&logo=owasp&logoColor=fde047)](#)
-[![Software Testing Badge](https://img.shields.io/badge/Software_Testing-e9d5ff?style=for-the-badge&labelColor=black&logo=testinglibrary&logoColor=e9d5ff)](#)
-
-
-## Tools
-
-[![VSCode Badge](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0078D7)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#)
-[![NPM Badge](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#)
-[![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
-[![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#)
-[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#)
-[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
-[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#)
-
-
-## Contact ME
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imeer.aii)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imeerai/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imeer.ai/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itsmrzmeerok)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbaszameer234@gmail.com)
-[<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/imeerai?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>](https://github.com/imeerai)
+<a href="https://imeer.dev">
+  <img src="image (9).png" alt="Zameer Abbas — Test. Secure. Build." width="100%">
+</a>
 
 <p align="center">
-  <a href="https://github.com/imeerai?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://imeer.dev"><img src="https://img.shields.io/badge/imeer.dev-portfolio-d4ff3a?style=for-the-badge&labelColor=0e0e0e" alt="imeer.dev"></a>
+  <a href="https://www.linkedin.com/in/imeerai/"><img src="https://img.shields.io/badge/LinkedIn-imeerai-f2f0e9?style=for-the-badge&logo=linkedin&logoColor=f2f0e9&labelColor=0e0e0e" alt="LinkedIn"></a>
+  <a href="mailto:abbaszameer234@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-ff6a3d?style=for-the-badge&logo=gmail&logoColor=ff6a3d&labelColor=0e0e0e" alt="Email"></a>
+  <img src="https://img.shields.io/badge/●_Open_to-SQA_roles-ff6a3d?style=for-the-badge&labelColor=0e0e0e" alt="Open to SQA roles">
+  <img src="https://komarev.com/ghpvc/?username=imeerai&label=views&color=d4ff3a&style=for-the-badge&labelColor=0e0e0e" alt="Profile views">
 </p>
 
-## 🐍 A Snake Eating My Contributions Graph
-
 <p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-	</picture>
+  <a href="https://imeer.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=900&color=D4FF3A&center=true&vCenter=true&width=680&lines=Does+it+work%3F+How+well%3F+What+breaks%3F;Software+QA+%E2%80%94+test+cases%2C+defect+reports%2C+API+testing;Web+security+%E2%80%94+vulnerability+analysis+%26+threat+modeling;Full+stack+%E2%80%94+React%2C+Next.js%2C+Node%2C+MongoDB;Building+SecureIX+%E2%80%94+A%2B+to+F+for+any+website" alt="Typing intro">
+  </a>
 </p>
 
-<h3 align="center">Support:</h3>
-<div>
-    <p><a href="https://ko-fi.com/itsmrzok"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsmrzok" /></a></p>
-</div>
-<br>
+---
 
+## `/about`
 
-<h2 align='left'>Thank You ❤</h2>
+Hi, I'm **Zameer Abbas**. I don't just build software — I like understanding how it works, how it can be improved, and **what can go wrong**.
+
+I'm a Computer Systems Engineering student at **MUET Jamshoro ('26)** and a Full Stack Developer building modern, reliable, user-focused web apps — and testing them the way an attacker would.
+
+```text
+role      Computer Systems Engineer · Full Stack Developer
+building  toward Cybersecurity — web security, vulnerability analysis, security research
+also      Software QA — functional testing, test case design, defect reporting
+based     Karachi, PK  ·  GMT+5
+motto     Build with purpose. Learn continuously. Test thoroughly. Secure by design.
+```
+
+## `/what-i-do`
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🟢 Software QA</h3>
+      <sub>How well does it work, and what could break?</sub><br><br>
+      Functional testing · Test case design · Defect reporting · API testing (Postman)
+    </td>
+    <td width="33%" valign="top">
+      <h3>🟠 Cybersecurity</h3>
+      <sub>Why vulnerabilities exist and how to fix them.</sub><br><br>
+      Web app security · Vulnerability analysis · Threat modeling · Security headers & CSP
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚪ Full Stack</h3>
+      <sub>Complete web apps, frontend to backend.</sub><br><br>
+      React / Next.js · Node / Express · MongoDB / MySQL · Auth & JWT
+    </td>
+  </tr>
+</table>
+
+## `/featured` — SecureIX 🛡️
+
+**SecureIX** is a web security, phishing and SEO analyzer. Enter any URL and it audits SSL/TLS, security headers (CSP, HSTS, XFO), DNS anti-spoofing (SPF, DMARC, CAA), exposed `.env` / `.git` files, phishing heuristics, tech stack and SEO — then grades the site **A+ to F** with a downloadable PDF report.
+
+- 🌐 Web dashboard — React 19, Vite, Tailwind CSS
+- 🧩 Chrome extension (Manifest V3) — scans the active tab in one click
+- ⚙️ Zero-dependency Node.js backend — SSRF firewall + rate limiting
+
+[![Live Demo](https://img.shields.io/badge/Live_demo-secure--ix.vercel.app-d4ff3a?style=for-the-badge&logo=vercel&logoColor=d4ff3a&labelColor=0e0e0e)](https://secure-ix.vercel.app)
+[![Source](https://img.shields.io/badge/Source-secureIX-f2f0e9?style=for-the-badge&logo=github&logoColor=f2f0e9&labelColor=0e0e0e)](https://github.com/imeerai/secureIX)
+
+## `/work`
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **imeer.dev** | My portfolio — scroll-driven motion, strict CSP with nonces, hardened contact API | Next.js · React · Tailwind | [live](https://imeer.dev) |
+| **MyLocalDrive** | Secure cloud storage with auth and file management | Node · Express · MongoDB · Tailwind | [live](https://mylocaldrive.vercel.app) · [code](https://github.com/imeerai/mylocaldrive) |
+| **FlowIX** | Prompt-to-website builder: live preview, AI revisions, versions, export | React · Express · MongoDB | [live](https://flow-ix-paw5.vercel.app/) · [code](https://github.com/imeerai/FlowIX) |
+| **Wanderlust** | Full stack travel listings app | Node · Express · MongoDB | [live](https://wanderlust-imeer.vercel.app) |
+| **Business Nexus** | Frontend platform build | React | [live](https://bntask2.vercel.app) |
+
+👉 Everything else: [github.com/imeerai](https://github.com/imeerai?tab=repositories)
+
+## `/journey`
+
+```text
+2022 — 2026     B.E. Computer Systems Engineering · MUET, Jamshoro
+JUN — JUL 2025  Front End Developer Intern · DevelopersHub Corp.
+2 MONTHS        Frontend Developer Intern · Spark Code Pvt Ltd
+```
+
+## `/stack`
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-0e0e0e?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0e0e0e?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0e0e0e?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0e0e0e?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0e0e0e?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-0e0e0e?style=flat-square&logo=reactrouter&logoColor=CA4245)
+![Redux](https://img.shields.io/badge/Redux-0e0e0e?style=flat-square&logo=redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0e0e0e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0e0e0e?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![MUI](https://img.shields.io/badge/MUI-0e0e0e?style=flat-square&logo=mui&logoColor=007FFF)
+![Vite](https://img.shields.io/badge/Vite-0e0e0e?style=flat-square&logo=vite&logoColor=FFD62E)
+
+**Backend & data**
+![Node.js](https://img.shields.io/badge/Node.js-0e0e0e?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0e0e0e?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0e0e0e?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0e0e0e?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-0e0e0e?style=flat-square&logo=firebase&logoColor=FFCA28)
+![JWT](https://img.shields.io/badge/JWT-0e0e0e?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-0e0e0e?style=flat-square&logo=googlechrome&logoColor=4285F4)
+
+**Security & QA**
+![Web Security](https://img.shields.io/badge/Web_Security-0e0e0e?style=flat-square&logo=letsencrypt&logoColor=d4ff3a)
+![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability_Analysis-0e0e0e?style=flat-square&logo=hackthebox&logoColor=ff6a3d)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-0e0e0e?style=flat-square&logo=owasp&logoColor=f2f0e9)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-0e0e0e?style=flat-square&logo=owasp&logoColor=d4ff3a)
+![Network Security](https://img.shields.io/badge/Network_Security-0e0e0e?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Software Testing](https://img.shields.io/badge/Software_Testing-0e0e0e?style=flat-square&logo=testinglibrary&logoColor=E33332)
+![Postman](https://img.shields.io/badge/API_Testing-0e0e0e?style=flat-square&logo=postman&logoColor=FF6C37)
+
+**Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-0e0e0e?style=flat-square&logo=vscodium&logoColor=2F80ED)
+![Git](https://img.shields.io/badge/Git-0e0e0e?style=flat-square&logo=git&logoColor=F05032)
+![npm](https://img.shields.io/badge/npm-0e0e0e?style=flat-square&logo=npm&logoColor=CB3837)
+![Figma](https://img.shields.io/badge/Figma-0e0e0e?style=flat-square&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-0e0e0e?style=flat-square&logo=canva&logoColor=00C4CC)
+![Vercel](https://img.shields.io/badge/Vercel-0e0e0e?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0e0e0e?style=flat-square&logo=netlify&logoColor=00C7B7)
+
+## `/stats`
+
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imeerai&show_icons=true&hide_border=true&bg_color=0e0e0e&title_color=d4ff3a&text_color=f2f0e9&icon_color=ff6a3d&ring_color=d4ff3a&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imeerai&layout=compact&hide_border=true&bg_color=0e0e0e&title_color=d4ff3a&text_color=f2f0e9" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imeerai&hide_border=true&background=0e0e0e&ring=d4ff3a&fire=ff6a3d&currStreakLabel=d4ff3a&sideLabels=f2f0e9&currStreakNum=f2f0e9&sideNums=f2f0e9&dates=8f8d85&stroke=2c2c2a" alt="Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imeerai&bg_color=0e0e0e&color=f2f0e9&line=d4ff3a&point=ff6a3d&area=true&area_color=d4ff3a&hide_border=true" alt="Activity graph" width="100%">
+</p>
+
+## `/snake` 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imeerai/imeerai/output/snake-dark.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/imeerai/imeerai/output/snake.svg">
+  </picture>
+</p>
+
+## `/contact`
+
+<p>
+  <a href="mailto:abbaszameer234@gmail.com"><img src="https://img.shields.io/badge/Gmail-0e0e0e?style=for-the-badge&logo=gmail&logoColor=ff6a3d" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/imeerai/"><img src="https://img.shields.io/badge/LinkedIn-0e0e0e?style=for-the-badge&logo=linkedin&logoColor=f2f0e9" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/imeer.ai/"><img src="https://img.shields.io/badge/Instagram-0e0e0e?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+  <a href="https://x.com/itsmrzmeerok"><img src="https://img.shields.io/badge/X-0e0e0e?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.facebook.com/imeer.aii"><img src="https://img.shields.io/badge/Facebook-0e0e0e?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
+  <img src="https://img.shields.io/badge/+92_318_222_1812-0e0e0e?style=for-the-badge&logo=whatsapp&logoColor=d4ff3a" alt="Phone">
+  <a href="https://github.com/imeerai"><img src="https://img.shields.io/github/followers/imeerai?label=Follow&style=for-the-badge&logo=github&logoColor=f2f0e9&labelColor=0e0e0e&color=d4ff3a" alt="Follow on GitHub"></a>
+</p>
+
+<p>
+  <a href="https://ko-fi.com/itsmrzok"><img src="https://img.shields.io/badge/Support_me-Ko--fi-ff6a3d?style=for-the-badge&logo=kofi&logoColor=ff6a3d&labelColor=0e0e0e" alt="Support on Ko-fi"></a>
+</p>
+
+---
+
+<p align="center">
+  <b>Build with purpose · Test thoroughly · Secure by design</b><br>
+  <sub><a href="https://imeer.dev">imeer.dev</a> · imeer.ai · © 2026 Zameer Abbas</sub>
 </p>
