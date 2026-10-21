@@ -124,7 +124,7 @@ JUN — JUL 2025  Front End Developer Intern · DevelopersHub Corp.
 </p>
 
 <p>
-  <a href="https://ko-fi.com/itsmrzok"><img src="https://img.shields.io/badge/Support_me-Ko--fi-ff6a3d?style=for-the-badge&logo=kofi&logoColor=ff6a3d&labelColor=0e0e0e" alt="Support on Ko-fi"></a>
+  <a href="https://ko-fi.com/imeerai"><img src="https://img.shields.io/badge/Support_me-Ko--fi-ff6a3d?style=for-the-badge&logo=kofi&logoColor=ff6a3d&labelColor=0e0e0e" alt="Support on Ko-fi"></a>
 </p>
 
 ---
